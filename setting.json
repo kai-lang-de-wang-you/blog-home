@@ -1,10 +1,10 @@
 {
-    "title": "Auroraの主页",
+    "title": "开朗的网友的主页",
     "description": "一个默默无闻的主页",
-    "keywords": "Aurora,个人主页",
-    "author": "Aurora",
+    "keywords": "开朗的网友,个人主页",
+    "author": "开朗的网友",
     "logo_img": "./img/icon/avatar.jpg",
-    "logo_text_1": "wuhobin",
+    "logo_text_1": "赵宇光",
     "logo_text_2": "top",
     "github": "wuhobin",
     "qq": "1289066006",
@@ -41,6 +41,6 @@
         "fa-solid fa-flask",
         "敬请期待..."
     ],
-    "Copyright_text": "Aurora",
+    "Copyright_text": "开朗的网友",
     "beian": "鄂ICP备20006685号"
 }
